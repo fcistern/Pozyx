@@ -1,0 +1,2 @@
+{"version":"1","tagId":"26382","success":false,"errorCode":"NO_CONN","timestamp":1558571634.859}
+{"version":"1","tagId":"26457","success":true,"timestamp":1558571635.271,"data":{"tagData":{},"anchorData":[],"coordinates":{"x":8146,"y":8397,"z":0},"orientation":{"yaw":0.578,"roll":-0.094,"pitch":0.005},"metrics":{"latency":123.2,"rates":{"update":1.02,"success":0.31}}}}
